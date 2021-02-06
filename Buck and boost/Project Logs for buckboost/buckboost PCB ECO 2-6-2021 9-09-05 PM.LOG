@@ -1,0 +1,44 @@
+Added Component: Designator=*(TPS63802)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L(coil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=r1(resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(resistor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(resistor)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-10
+Added Pin To Net: NetName=Net*_1 Pin=C1-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=R2-2
+Added Pin To Net: NetName=Net*_4 Pin=R3-2
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=r1-1
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=C2-2
+Added Pin To Net: NetName=Net*_6 Pin=R2-1
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=L-2
+Added Net: Name=Net*_7
+Added Pin To Net: NetName=Net*_9 Pin=*-9
+Added Pin To Net: NetName=Net*_9 Pin=L-1
+Added Net: Name=Net*_9
+Added Class: Name=buckboost
+Added Room: Name=buckboost

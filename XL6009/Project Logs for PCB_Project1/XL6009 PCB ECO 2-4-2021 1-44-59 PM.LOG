@@ -1,0 +1,19 @@
+Added Component: Designator=*(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(XL6009)
+Add component. Clean all parameters for all variants
+Added Component: Designator=105(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cin(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cout(Cin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(1N5824)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Class: Name=XL6009

@@ -1,0 +1,4 @@
+Change Component Comment : Designator=Cout Old Comment=cap2 New Comment=220uF/50V
+Change Component Comment : Designator=Cin Old Comment=capacitor New Comment=47uF/50V
+Change Component Comment : Designator=D1 Old Comment=diode New Comment=1N5824
+Change Component Comment : Designator=L Old Comment=Electrolytic Cap New Comment=33uH/50V

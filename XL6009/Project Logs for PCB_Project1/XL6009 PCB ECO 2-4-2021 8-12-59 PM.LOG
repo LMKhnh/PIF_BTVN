@@ -1,0 +1,32 @@
+Added Component: Designator=105(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=?(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cin(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Cout(Cin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(1N5824)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Vin+(P1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Vin-(P1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Vout+(P1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Vout-(P1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XL6009(XL6009)
+Add component. Clean all parameters for all variants
+Added Net: Name=GND
+Added Net: Name=Net105_49
+Added Net: Name=Net?_49
+Added Net: Name=NetD1_48
+Added Net: Name=NetR1_46
+Added Class: Name=XL6009

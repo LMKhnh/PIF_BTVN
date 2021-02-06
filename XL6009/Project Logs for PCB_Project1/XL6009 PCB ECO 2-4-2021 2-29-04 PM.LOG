@@ -1,0 +1,22 @@
+Change Component Comment : Designator=R1 Old Comment=1k Ohm New Comment=RESISTOR1
+Change Component Comment : Designator=D1 Old Comment=1N5824 New Comment=diode
+Change Component Comment : Designator=L Old Comment=33uF/4A New Comment=Electrolytic Cap
+Change Component Comment : Designator=Cin Old Comment=47uF/50V New Comment=capacitor
+Change Component Comment : Designator=Cout Old Comment=220uF/50V New Comment=cap2
+Change Component Designator: OldDesignator=105 NewDesignator=*
+Added Component: Designator=Vin+(P1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Vin-(P1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Vout+(P1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Vout-(P1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=XL6009 Member=Component * Component_1
+Added Member To Class: ClassName=XL6009 Member=Component * Component_2
+Added Member To Class: ClassName=XL6009 Member=Component * Component_2
+Added Member To Class: ClassName=XL6009 Member=Component 105
+Added Member To Class: ClassName=XL6009 Member=Component Vin+ p1
+Added Member To Class: ClassName=XL6009 Member=Component Vin- p1
+Added Member To Class: ClassName=XL6009 Member=Component Vout+ p1
+Added Member To Class: ClassName=XL6009 Member=Component Vout- p1
