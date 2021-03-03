@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=XL6009 fixed Member=Cin
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=Cin NewDesignator=C1
+Change Component Designator: OldDesignator=Cout NewDesignator=C4
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC3_2
+Added Member To Class: ClassName=XL6009 fixed Member=Component C3 Cap Non-Pol SMD
