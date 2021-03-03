@@ -1,5 +1,0 @@
-Added Component: Designator=R1(PCBComponent_1)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=GND Pin=R1-1
-Added Pin To Net: NetName=NetR1_46 Pin=R1-2
-Change Net Name : Old Net Name=NetR1_46 New Net Name=NetR1_2

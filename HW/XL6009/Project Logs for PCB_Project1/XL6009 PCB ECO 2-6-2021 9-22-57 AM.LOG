@@ -1,3 +1,0 @@
-Change Component Footprint: Designator=Cout Old Footprint=Cin New Footprint=PCBComponent_1
-Added Pin To Net: NetName=Net1_1 Pin=Cout-1
-Added Member To Class: ClassName=XL6009 Member=Component R1 1k Ohm
