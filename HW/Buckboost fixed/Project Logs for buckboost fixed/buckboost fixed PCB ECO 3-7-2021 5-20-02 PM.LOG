@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=DOMINO SMALL 2 New Footprint=DOMINO 2- 5mm
+Change Component Footprint: Designator=P2 Old Footprint=DOMINO SMALL 2 New Footprint=DOMINO 2- 5mm
+Added Member To Class: ClassName=buckboost fixed Member=Component C2 Cap Non-Pol SMD
+Added Member To Class: ClassName=buckboost fixed Member=Component L1 Inductor
